@@ -3,6 +3,9 @@ Translation Service REST API
 -
 This project is a simple REST API for translating text from English to French using a third-party translation service. It provides an endpoint accessible via the POST method to handle translation requests.
 
+![Screenshot (452)](https://github.com/8sabharwal/project/assets/64610691/746e1491-b387-42ca-ae91-74bace22119c)
+
+
 How to use:-
 -
 
